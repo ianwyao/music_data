@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Love The Way You Lie,Recovery,Eminem,2010-06-18,263373,82,0.749,0.241,0.749,0.925,0.0,0.52,-5.034,0.227,86.989,4
+1,TiK ToK,Animal (Expanded Edition),Kesha,2010-01-01,199693,81,0.755,0.0991,0.755,0.837,0.0,0.289,-2.718,0.142,120.028,4
+2,Bad Romance,The Fame Monster (Deluxe Edition),Lady Gaga,2009-11-05,294573,81,0.696,0.00314,0.696,0.921,5.24e-05,0.0842,-3.755,0.0363,119.001,4
+3,"Hey, Soul Sister","Save Me, San Francisco (Golden Gate Edition)",Train,2010-12-01,216773,84,0.673,0.185,0.673,0.886,0.0,0.0826,-4.44,0.0431,97.012,4
+4,Don't Stop Believin' (Glee Cast Version),"Glee: The Music, Volume 1",Glee Cast,2009-11-02,232000,67,0.473,0.038,0.473,0.604,0.0,0.103,-4.034,0.0337,123.857,4
+5,Airplanes (feat. Hayley Williams),B.o.B Presents: The Adventures of Bobby Ray,B.o.B,2010-04-27,180480,76,0.66,0.11,0.66,0.867,0.0,0.0368,-4.285,0.116,93.033,4
+6,Dynamite,The Rokstarr Hits Collection,Taio Cruz,2010-01-01,202613,79,0.751,0.00379,0.751,0.783,0.0,0.036,-3.724,0.0859,119.975,4
+7,Misery,Hands All Over (Revised International Standard version),Maroon 5,2010,216200,65,0.703,0.000315,0.703,0.81,0.0,0.216,-4.874,0.0424,102.978,4
+8,California Gurls,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,2012-03-12,234653,75,0.791,0.00446,0.791,0.754,0.0,0.163,-3.729,0.0569,125.014,4
+9,All Time Low,The Wanted,The Wanted,2010-01-01,205200,56,0.689,0.352,0.689,0.615,0.0,0.0789,-5.022,0.0563,134.036,4
+10,Just the Way You Are,Doo-Wops & Hooligans,Bruno Mars,2010-10-05,220733,78,0.637,0.0151,0.637,0.843,0.0,0.0876,-5.413,0.0432,109.012,4
+11,Down,All Or Nothing,Jay Sean,2009-01-01,212106,79,0.657,0.0108,0.657,0.695,0.0,0.0822,-4.493,0.0321,65.997,4
+12,Dancing On My Own,Body Talk pt. 1,Robyn,2010-06-11,288670,51,0.687,0.0743,0.687,0.865,0.225,0.0966,-4.663,0.0349,117.015,4
+13,Man Down,Loud,Rihanna,2010-11-16,267000,70,0.47,0.0436,0.47,0.904,0.0,0.0491,-4.024,0.177,155.788,4
+14,Alors on danse,Cheese,Stromae,2010-01-01,206066,77,0.791,0.0994,0.791,0.59,0.00203,0.065,-9.206,0.0793,119.951,4
+15,Talking to the Moon,Doo-Wops & Hooligans,Bruno Mars,2010-10-05,217866,72,0.523,0.512,0.523,0.606,0.0,0.106,-4.754,0.0301,145.837,4
+16,No Hands (feat. Roscoe Dash & Wale),No Hands (feat. Roscoe Dash & Wale),Waka Flocka Flame,2010-09-06,263773,60,0.76,0.00544,0.76,0.595,0.0,0.241,-6.366,0.0391,131.497,4
+17,What You Know,Tourist History,Two Door Cinema Club,2010-02-07,189693,59,0.55,0.000665,0.55,0.753,7.74e-06,0.0921,-4.003,0.0407,139.048,4
+18,Danza Kuduro (feat. Don Omar),Emigrante Del Mundo,Lucenzo,2011-09-30,213986,57,0.622,0.00713,0.622,0.942,0.0,0.0715,-6.365,0.112,130.003,4
+19,Today Was A Fairytale,Today Was A Fairytale,Taylor Swift,2011-02-15,242480,54,0.491,0.0307,0.491,0.703,5.72e-06,0.167,-4.5,0.0319,157.988,4
+20,Teach Me How to Dougie,The Kickback,Cali Swag District,2011-07-12,237480,67,0.846,0.2,0.846,0.438,9.43e-05,0.0939,-4.981,0.141,85.013,4
+21,King of Anything,Kaleidoscope Heart,Sara Bareilles,2010-09-07,207493,64,0.676,0.461,0.676,0.762,0.0,0.0574,-4.172,0.0351,119.003,4
+22,If I Die Young,The Band Perry,The Band Perry,2010,222773,66,0.606,0.348,0.606,0.497,0.0,0.275,-6.611,0.0277,130.739,4
+23,Right Above It,I Am Not A Human Being,Lil Wayne,2010-01-01,271946,70,0.376,0.0435,0.376,0.841,0.0,0.578,-4.348,0.356,76.052,4
+24,Hey Daddy (Daddy's Home),Raymond v Raymond (Expanded Edition),Usher,2010-03-30,224093,62,0.59,0.000176,0.59,0.698,0.0,0.107,-4.262,0.0286,95.975,4
+25,"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)","All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",DJ Khaled,2010-02-09,232506,49,0.544,0.014,0.544,0.781,0.0,0.161,-3.616,0.189,150.1,4
+26,My First Kiss (feat. Ke$ha),Streets Of Gold,3OH!3,2010-06-25,192440,65,0.682,0.00564,0.682,0.889,0.0,0.36,-4.166,0.0804,138.021,4
+27,Impossible - Main,No Gravity,Shontelle,2010-01-01,226533,70,0.599,0.385,0.599,0.624,0.0,0.125,-3.631,0.0343,90.034,4
+28,Deuces (feat. Tyga & Kevin McCall),F.A.M.E. (Expanded Edition),Chris Brown,2011-03-22,276560,71,0.692,0.0324,0.692,0.736,0.0,0.0787,-5.109,0.11,73.987,4
+29,Magic (feat. Rivers Cuomo),B.o.B Presents: The Adventures of Bobby Ray,B.o.B,2010-04-27,196133,68,0.549,0.0127,0.549,0.932,0.0,0.347,-4.11,0.343,82.439,4
+30,Over,Thank Me Later (Int'l Version),Drake,2010-01-01,233560,60,0.325,0.0109,0.325,0.848,0.0,0.124,-5.611,0.279,100.093,5
+31,Take It Off,Animal (Expanded Edition),Kesha,2010-01-01,215200,71,0.729,4.14e-05,0.729,0.675,0.00126,0.0867,-5.292,0.0286,125.036,4
+32,My Chick Bad,Battle Of The Sexes (Deluxe),Ludacris,2010-01-01,216933,67,0.624,0.172,0.624,0.723,0.0,0.483,-6.782,0.378,84.789,4
+33,Do You Remember,All Or Nothing,Jay Sean,2009-01-01,210306,70,0.855,0.0242,0.855,0.668,0.0,0.102,-4.892,0.0644,125.846,4
+34,Hard,Rated R,Rihanna,2009-11-20,250600,57,0.31,0.0121,0.31,0.746,0.0,0.649,-3.599,0.111,182.032,4
+35,Live Like We're Dying,Kris Allen,Kris Allen,2009-11-16,212506,53,0.589,0.0273,0.589,0.893,0.0,0.343,-2.948,0.0397,92.011,4
+36,Blah Blah Blah (feat. 3OH!3),Animal (Expanded Edition),Kesha,2010-01-01,172053,63,0.752,0.0843,0.752,0.836,0.000425,0.424,-3.173,0.115,120.003,4
+37,Mine,Speak Now (Deluxe Package),Taylor Swift,2010-01-01,230773,64,0.621,0.00327,0.621,0.78,4.55e-06,0.184,-2.934,0.0297,121.038,4
+38,Whataya Want from Me,For Your Entertainment,Adam Lambert,2009,227320,57,0.438,0.0055,0.438,0.672,0.0,0.0583,-4.706,0.0429,185.934,4
+39,Whatcha Say,Jason Derulo (International),Jason Derulo,2010-02-26,221253,74,0.615,0.0444,0.615,0.711,0.0,0.145,-5.507,0.0779,144.036,4
+40,How Low,Battle Of The Sexes (Deluxe),Ludacris,2010-01-01,201586,63,0.785,0.00248,0.785,0.498,1.23e-06,0.224,-6.977,0.0533,143.96,4
+41,Find Your Love,Thank Me Later (Int'l Version),Drake,2010-01-01,208946,58,0.625,0.0209,0.625,0.613,0.0,0.0286,-6.005,0.173,96.033,4
+42,Say Aah (feat. Fabolous),Ready,Trey Songz,2009-08-31,207546,59,0.724,0.00453,0.724,0.87,0.0,0.833,-3.614,0.113,93.01,4
+43,Your Love Is My Drug,Animal (Expanded Edition),Kesha,2010-01-01,187133,70,0.826,0.00681,0.826,0.612,0.0,0.0889,-3.891,0.0982,120.057,4
+44,Sexy Bitch (feat. Akon),One More Love,David Guetta,2010-11-22,195853,76,0.813,0.076,0.813,0.627,0.000616,0.131,-5.018,0.0486,130.011,4
+45,Imma Be,THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version],Black Eyed Peas,2009-01-01,257560,62,0.597,0.179,0.597,0.517,0.0,0.307,-6.963,0.365,92.035,4
+46,Break Your Heart,The Rokstarr Hits Collection,Taio Cruz,2010-01-01,201546,73,0.607,0.0327,0.607,0.934,0.0,0.0909,-4.217,0.0314,122.01,4
+47,Young Forever,The Blueprint 3,JAY-Z,2009-09-08,253906,67,0.637,0.417,0.637,0.69,0.0,0.211,-3.214,0.0693,140.329,4
+48,Memories (feat. Kid Cudi),One More Love,David Guetta,2010-11-22,210853,71,0.546,0.00147,0.546,0.916,4e-06,0.251,-3.931,0.255,129.986,4
+49,Eenie Meenie,Eenie Meenie,Sean Kingston,2010-03-23,201946,73,0.72,0.0543,0.72,0.607,0.0,0.113,-4.168,0.0322,121.223,4
+50,Te Amo,Rated R,Rihanna,2009-11-20,208426,63,0.567,0.541,0.567,0.707,0.000176,0.1,-5.455,0.0818,171.917,4
+51,Hot,Hot,INNA,2010-04-19,217036,57,0.816,0.0798,0.816,0.94,0.444,0.431,-6.079,0.28,128.0,4
+52,Higher,Headlines,The Saturdays,2010-01-01,207613,60,0.639,0.049,0.639,0.862,6.81e-06,0.264,-3.292,0.0341,117.011,4
+53,Carry Out (Featuring Justin Timberlake),Shock Value II,Timbaland,2009-01-01,232466,66,0.531,0.114,0.531,0.574,0.0308,0.256,-6.693,0.113,115.68,5
+54,Commander,Here I Am (Int'l Version),Kelly Rowland,2011-01-01,218106,57,0.395,0.0173,0.395,0.876,8.46e-06,0.362,-3.859,0.138,124.638,4
+55,Empire State Of Mind,The Blueprint 3,JAY-Z,2009-09-08,276920,81,0.491,0.0295,0.491,0.956,0.0,0.46,-1.538,0.392,173.585,4
+56,BedRock,We Are Young Money,Young Money,2009-01-01,288133,73,0.733,0.102,0.733,0.664,0.0,0.191,-6.163,0.295,148.005,4
+57,Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah,Disc-Overy,Tinie Tempah,2010,206460,59,0.736,0.00237,0.736,0.929,1.11e-05,0.402,-5.89,0.0674,125.03,4
+58,I Gotta Feeling,THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version],Black Eyed Peas,2009-01-01,289133,81,0.743,0.0873,0.743,0.766,0.0,0.509,-6.375,0.0265,127.96,4
+59,Beautiful Monster,Libra Scale,Ne-Yo,2010-01-01,251573,59,0.708,0.209,0.708,0.771,5.32e-06,0.277,-6.99,0.131,128.013,4
+60,Try Sleeping with a Broken Heart,The Element Of Freedom,Alicia Keys,2009-12-15,249013,62,0.496,0.158,0.496,0.82,0.246,0.13,-5.155,0.112,110.977,5
+61,One (Your Name) - Radio Edit,One (Your Name),Swedish House Mafia,2010-01-01,163246,63,0.733,0.0132,0.733,0.673,0.0049,0.16,-6.572,0.0333,125.061,4
+62,Barbra Streisand - Radio Edit,Barbra Streisand,Duck Sauce,2010-10-15,196533,47,0.769,0.000939,0.769,0.922,0.197,0.233,-1.966,0.108,127.965,4
+63,Gettin' Over You (feat. Fergie & LMFAO),One More Love,David Guetta,2010-11-22,188000,57,0.616,0.178,0.616,0.913,0.0,0.0773,-5.077,0.0815,129.944,4
+64,I Like It,Euphoria,Enrique Iglesias,2010,231373,65,0.648,0.021,0.648,0.942,0.0,0.0594,-2.881,0.0878,129.007,4
+65,Baby,My World 2.0,Justin Bieber,2010-01-01,214240,77,0.728,0.0401,0.728,0.859,0.0,0.111,-5.237,0.137,65.043,4
+66,Alejandro,The Fame Monster (Deluxe Edition),Lady Gaga,2009-11-05,274213,68,0.623,0.000397,0.623,0.793,0.0015,0.375,-6.63,0.0462,98.998,4
+67,Nothin' on You (feat. Bruno Mars),B.o.B Presents: The Adventures of Bobby Ray,B.o.B,2010-04-27,268320,74,0.688,0.386,0.688,0.853,0.0,0.0862,-5.814,0.0493,103.993,4
+68,Kickstarts,Won't Go Quietly,Example,2010-06-18,181826,64,0.61,0.00374,0.61,0.836,0.0,0.358,-4.455,0.0573,126.059,4
+69,Wavin' Flag,Troubadour,K'NAAN,2009,220520,55,0.625,0.13,0.625,0.699,0.0,0.238,-6.416,0.0729,75.974,4
+70,Starry Eyed,Bright Lights (Lights Re-pack / Bonus Version),Ellie Goulding,2010-01-01,176613,58,0.504,0.135,0.504,0.814,1.42e-05,0.324,-5.346,0.0389,149.967,4
+71,This Ain't a Love Song,Ten Add Ten: The Very Best of Scouting For Girls,Scouting For Girls,2017-10-13,210680,45,0.458,0.000431,0.458,0.905,0.0,0.378,-4.157,0.0452,176.659,4
+72,In My Head,Jason Derulo (International),Jason Derulo,2010-02-26,199026,72,0.762,0.0266,0.762,0.748,0.0,0.348,-4.15,0.033,110.009,4
+73,Riverside,Riverside,Sidney Samson,2009-01-19,320348,46,0.804,0.00023,0.804,0.976,0.894,0.125,-2.458,0.0445,125.997,4
+74,If We Ever Meet Again (Featuring Katy Perry),Shock Value II,Timbaland,2009-01-01,292706,65,0.652,0.00481,0.652,0.605,0.0,0.0605,-7.371,0.0393,126.091,4
+75,The Flood,Progress,Take That,2010-01-01,289359,61,0.514,0.0378,0.514,0.83,1.43e-06,0.122,-6.077,0.044,100.631,4
+76,Not Afraid,Recovery,Eminem,2010-06-18,248133,79,0.855,0.529,0.855,0.954,0.0,0.205,-1.19,0.264,114.635,5
+77,Cooler Than Me - Single Mix,31 Minutes to Takeoff,Mike Posner,2010-08-09,213293,75,0.768,0.179,0.768,0.82,0.0,0.704,-4.63,0.0475,129.969,4
+78,Starstrukk,Teenage Dream,Katy Perry,2010-08-24,203093,52,0.605,0.00153,0.605,0.795,0.0,0.207,-6.086,0.0712,139.896,4
+79,Pack Up,Eliza Doolittle,Eliza Doolittle,2010-03-01,191026,49,0.672,0.325,0.672,0.809,0.0,0.336,-5.704,0.0595,133.036,4
+80,Billionaire (feat. Bruno Mars),Billionaire (feat. Bruno Mars),Travie McCoy,2010-03-09,211160,74,0.633,0.297,0.633,0.673,0.0,0.206,-6.403,0.258,86.776,4
+81,Ridin' Solo,Jason Derulo (International),Jason Derulo,2010-02-26,215746,70,0.442,0.128,0.442,0.83,0.0,0.129,-4.02,0.146,89.338,4
+82,Your Song - Bonus Track,Bright Lights (Lights Re-pack / Bonus Version),Ellie Goulding,2010-01-01,191826,65,0.547,0.941,0.547,0.197,0.000756,0.144,-12.002,0.0303,133.85,4
+83,Club Can't Handle Me (feat. David Guetta),Only One Flo (Part 1),Flo Rida,2010-11-24,234560,75,0.616,0.0283,0.616,0.869,0.0,0.064,-3.911,0.0327,127.966,4
+84,Firework,Teenage Dream,Katy Perry,2010-08-24,227893,71,0.638,0.141,0.638,0.832,0.0,0.113,-5.039,0.049,124.071,4
+85,Replay,Replay,Iyaz,2009-08-18,182306,79,0.706,0.173,0.706,0.751,0.0,0.168,-6.323,0.0708,91.031,4
+86,She Said,The Defamation of Strickland Banks,Plan B,2010-04-09,208853,62,0.72,0.301,0.72,0.538,3.03e-06,0.144,-5.85,0.141,147.007,4
+87,Telephone,The Fame Monster (Deluxe Edition),Lady Gaga,2009-11-05,220640,70,0.824,0.00521,0.824,0.836,0.000817,0.112,-5.903,0.0404,122.014,4
+88,Rude Boy,Rated R,Rihanna,2009-11-20,222920,74,0.563,0.113,0.563,0.75,0.0,0.0788,-4.496,0.127,173.906,4
+89,Empire State of Mind (Part II) Broken Down,The Element Of Freedom,Alicia Keys,2009-12-15,216480,75,0.479,0.739,0.479,0.368,4.1e-05,0.118,-7.784,0.0341,92.959,4
+90,Pass Out,Disc-Overy,Tinie Tempah,2010,268053,56,0.693,0.0281,0.693,0.891,0.0,0.143,-3.261,0.296,91.1,4
+91,We No Speak Americano - JT Radio Edit,We No Speak Americano (Complete Remixes),Yolanda Be Cool,2010-07-17,157438,65,0.902,0.0725,0.902,0.805,0.082,0.0916,-5.005,0.0464,124.996,4
+92,Fireflies,Ocean Eyes,Owl City,2009-01-01,228346,81,0.512,0.0275,0.512,0.662,0.0,0.118,-6.797,0.0439,180.114,4
+93,OMG (feat. will.i.am),Raymond v Raymond (Expanded Edition),Usher,2010-03-30,269493,73,0.781,0.198,0.781,0.745,1.14e-05,0.36,-5.81,0.0332,129.998,4
+94,When We Collide,Letters (Deluxe Edition),Matt Cardle,2011-01-09,226000,48,0.443,0.0198,0.443,0.683,5.26e-06,0.313,-5.521,0.0343,81.986,4
+95,Animal,Habits (Spotify),Neon Trees,2010,212306,67,0.482,0.00034,0.482,0.829,0.0,0.378,-5.576,0.0437,147.99,4
+96,Teenage Dream,Teenage Dream,Katy Perry,2010-08-24,227741,66,0.719,0.0162,0.719,0.798,2.34e-06,0.134,-4.582,0.0361,120.011,4
+97,Like A G6,Free Wired,Far East Movement,2010-01-01,216893,73,0.435,0.00676,0.435,0.837,0.0,0.117,-8.126,0.449,124.913,4
+98,For the First Time,Science & Faith,The Script,2010-09-10,252440,68,0.393,0.0339,0.393,0.633,0.0,0.104,-4.769,0.0275,174.022,4
+99,DJ Got Us Fallin' In Love (feat. Pitbull),Raymond v Raymond (Expanded Edition),Usher,2010-03-30,220800,80,0.663,0.0338,0.663,0.861,0.0,0.082,-3.398,0.109,119.963,4

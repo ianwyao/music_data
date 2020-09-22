@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Thrift Shop (feat. Wanz),The Heist [Deluxe Edition],Macklemore & Ryan Lewis,2012-10-09,235613,74,0.781,0.0619,0.781,0.526,0.0,0.0457,-6.985,0.293,94.992,4
+1,Blurred Lines,Blurred Lines,Robin Thicke,2013-01-01,263053,57,0.861,0.00412,0.861,0.504,1.78e-05,0.0783,-7.707,0.0489,120.0,4
+2,Radioactive,Night Visions,Imagine Dragons,2012-09-04,186813,79,0.448,0.106,0.448,0.784,0.000108,0.668,-3.686,0.0627,136.245,4
+3,La La La,Hotel Cabana (Deluxe Version),Naughty Boy,2013-01-01,222200,69,0.772,0.107,0.772,0.65,1.13e-06,0.0905,-5.202,0.0306,125.083,4
+4,Locked out of Heaven,Unorthodox Jukebox,Bruno Mars,2012-12-07,233478,82,0.726,0.049,0.726,0.698,0.0,0.309,-4.165,0.0431,143.994,4
+5,Ain't It Fun,Paramore,Paramore,2013-04-05,296520,74,0.61,0.154,0.61,0.893,4.41e-05,0.021,-3.681,0.0921,104.031,4
+6,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit],Daft Punk,2013-04-19,248413,79,0.794,0.0426,0.794,0.811,1.07e-06,0.101,-8.966,0.038,116.047,4
+7,Wake Me Up,True,Avicii,2013-09-13,247426,85,0.532,0.0038,0.532,0.783,0.0012,0.161,-5.697,0.0523,124.08,4
+8,What About Us,Living For The Weekend (Deluxe Edition),The Saturdays,2013-01-01,220682,61,0.704,0.0059,0.704,0.68,0.0,0.213,-4.751,0.0581,123.973,4
+9,Need U (100%) [feat. A*M*E] - Radio Edit,need u (100%) (feat. a*m*e),Duke Dumont,2013-05-03,174853,37,0.681,0.00176,0.681,0.835,0.00183,0.354,-5.705,0.049,124.047,4
+10,Just Give Me a Reason (feat. Nate Ruess),The Truth About Love,P!nk,2012-09-18,242733,82,0.778,0.346,0.778,0.547,0.000302,0.132,-7.273,0.0489,95.002,4
+11,White Noise,Settle (Special Edition),Disclosure,2014-01-01,277687,52,0.665,0.00963,0.665,0.844,0.000215,0.311,-6.164,0.0501,119.978,4
+12,Roar,PRISM (Deluxe),Katy Perry,2013-10-18,223546,77,0.554,0.00487,0.554,0.772,6.6e-06,0.354,-4.821,0.0418,179.984,4
+13,One Way or Another (Teenage Kicks),One Way Or Another (Teenage Kicks),One Direction,2013-02-17,157293,72,0.489,0.025,0.489,0.867,0.0,0.586,-3.121,0.071,162.131,4
+14,Drinking from the Bottle (feat. Tinie Tempah),18 Months,Calvin Harris,2012-10-29,240346,64,0.665,0.0469,0.665,0.886,6.24e-05,0.0525,-4.175,0.0514,128.062,4
+15,Hey Porsche,M.O. (Deluxe Edition),Nelly,2013-09-30,209466,60,0.726,0.136,0.726,0.795,0.0,0.698,-4.653,0.029,115.995,4
+16,Dear Darlin',Right Place Right Time (Expanded Edition),Olly Murs,2012-11-26,206373,59,0.512,0.00627,0.512,0.828,8.73e-06,0.119,-4.672,0.0454,124.021,4
+17,Everything Has Changed,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,245413,68,0.624,0.36,0.624,0.458,3.89e-06,0.311,-6.755,0.0287,80.016,4
+18,Look Right Through - MK Vocal Edit,Look Right Through (Remixes),Storm Queen,2014-08-11,150400,38,0.832,0.00304,0.832,0.815,0.00553,0.263,-8.035,0.081,119.995,4
+19,Ready or Not,Hello My Name Is...,Bridgit Mendler,2012-01-01,200946,73,0.715,0.00351,0.715,0.872,3.84e-05,0.107,-3.835,0.0509,93.043,4
+20,Don't Stop the Party (feat. TJR),Global Warming: Meltdown (Deluxe Version),Pitbull,2012,206120,62,0.722,0.00726,0.722,0.958,0.0,0.375,-3.617,0.0912,127.008,4
+21,I Will Wait,Babel (Deluxe Version),Mumford & Sons,2012-09-21,276720,67,0.486,0.0119,0.486,0.769,0.00832,0.197,-5.14,0.0341,131.286,4
+22,Little Talks,My Head Is An Animal,Of Monsters and Men,2012-01-01,266600,79,0.457,0.0206,0.457,0.757,0.0,0.146,-5.177,0.032,102.961,4
+23,Berzerk,The Marshall Mathers LP2 (Deluxe),Eminem,2013-11-05,238746,68,0.739,0.0217,0.739,0.872,0.0,0.26,-4.059,0.333,95.084,4
+24,The Fox (What Does the Fox Say?),The Fox (What Does the Fox Say?),Ylvis,2013-09-02,213708,66,0.703,0.107,0.703,0.867,0.0,0.119,-4.292,0.0453,128.008,4
+25,Sure Be Cool If You Did,Based on a True Story... (Deluxe Edition),Blake Shelton,2013-03-26,215720,60,0.576,0.255,0.576,0.726,0.0,0.108,-4.625,0.035,136.802,4
+26,Counting Stars,Native,OneRepublic,2013-01-01,257266,82,0.664,0.0654,0.664,0.705,0.0,0.118,-4.972,0.0382,122.016,4
+27,Pompeii,All This Bad Blood,Bastille,2013-01-01,214147,73,0.679,0.0755,0.679,0.715,0.0,0.271,-6.383,0.0407,127.435,4
+28,The Monster,The Marshall Mathers LP2,Eminem,2013-11-05,250188,76,0.781,0.0525,0.781,0.853,0.0,0.12,-3.68,0.0715,110.049,4
+29,Royals,Pure Heroine,Lorde,2013-09-27,190185,77,0.674,0.121,0.674,0.428,0.0,0.132,-9.504,0.122,84.878,4
+30,Let Her Go,All The Little Lights,Passenger,2012-11-05,252866,78,0.509,0.385,0.509,0.538,0.0,0.104,-7.335,0.0572,75.089,4
+31,Wrecking Ball,Bangerz (Deluxe Version),Miley Cyrus,2013-10-04,221360,77,0.53,0.407,0.53,0.422,0.0,0.107,-6.262,0.0342,119.964,4
+32,"Hold On, We're Going Home",Nothing Was The Same (Deluxe),Drake,2013-01-01,227880,74,0.773,0.00411,0.773,0.414,3.4e-05,0.0733,-7.436,0.0961,99.993,4
+33,Sweater Weather,I Love You.,The Neighbourhood,2013-04-19,240400,85,0.612,0.0495,0.612,0.807,0.0177,0.101,-2.81,0.0336,124.053,4
+34,Waiting All Night (feat. Ella Eyre),Home (Deluxe Edition),Rudimental,2013-02-22,292586,66,0.544,0.00264,0.544,0.728,0.00959,0.427,-5.358,0.05,174.983,4
+35,Love Me Again,Tribute,John Newman,2013-01-01,239894,73,0.495,0.00453,0.495,0.894,0.000596,0.103,-4.814,0.0441,126.03,4
+36,Burn,Halcyon Days,Ellie Goulding,2014-01-01,231211,71,0.559,0.31,0.559,0.777,0.0,0.105,-5.031,0.0432,87.016,4
+37,Can't Hold Us - feat. Ray Dalton,The Heist,Macklemore & Ryan Lewis,2012-10-09,258342,84,0.641,0.0291,0.641,0.922,0.0,0.0862,-4.457,0.0786,146.078,4
+38,I Knew You Were Trouble.,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,219720,78,0.622,0.00454,0.622,0.469,2.25e-06,0.0335,-6.798,0.0363,77.019,4
+39,Scream & Shout,#willpower,will.i.am,2013-01-01,283400,76,0.772,0.019,0.772,0.685,8.96e-05,0.131,-6.849,0.0696,130.033,4
+40,I Love It (feat. Charli XCX),THIS IS... ICONA POP,Icona Pop,2013-08-27,157152,67,0.711,0.00952,0.711,0.906,1.64e-05,0.153,-2.671,0.0284,125.916,4
+41,Ho Hey,The Lumineers (Deluxe Edition),The Lumineers,2012,163133,75,0.682,0.765,0.682,0.471,0.0,0.0908,-9.182,0.0301,79.907,4
+42,Stay,Unapologetic (Deluxe),Rihanna,2012-12-11,240706,76,0.621,0.945,0.621,0.31,6.12e-05,0.117,-10.164,0.0283,111.893,4
+43,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix),Lana Del Rey,2013-02-01,214912,75,0.572,0.0157,0.572,0.81,6.53e-06,0.13,-5.791,0.0558,126.052,4
+44,Talk Dirty (feat. 2 Chainz),Tattoos (Deluxe Edition),Jason Derulo,2013-09-10,177685,59,0.76,0.0348,0.76,0.652,0.0,0.307,-7.321,0.232,100.315,4
+45,I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,I Could Be The One [Avicii vs Nicky Romero],Avicii,2012-01-01,208316,68,0.509,0.332,0.509,0.79,6.67e-05,0.316,-3.782,0.0374,127.946,4
+46,We Can't Stop,Bangerz (Deluxe Version),Miley Cyrus,2013-10-04,231240,80,0.613,0.00882,0.613,0.622,0.0,0.37,-5.794,0.0334,80.003,4
+47,I Need Your Love (feat. Ellie Goulding),18 Months,Calvin Harris,2012-10-29,234506,72,0.695,0.41,0.695,0.869,0.0,0.237,-5.066,0.0483,124.989,4
+48,This Is How We Do,PRISM (Deluxe),Katy Perry,2013-10-18,204285,65,0.69,0.0203,0.69,0.636,0.0,0.147,-6.028,0.0457,96.0,4
+49,Lose Yourself to Dance (feat. Pharrell Williams),Random Access Memories,Daft Punk,2013-05-17,353893,71,0.832,0.0839,0.832,0.659,0.00114,0.0753,-7.828,0.057,100.163,4
+50,Somewhere Only We Know,Sheezus,Lily Allen,2014-05-02,208504,65,0.313,0.934,0.313,0.286,0.0451,0.0974,-10.593,0.0324,80.925,4
+51,Play Hard (feat. Ne-Yo & Akon),Nothing but the Beat (Ultimate Edition),David Guetta,2012-12-07,201000,71,0.691,0.173,0.691,0.921,0.0,0.331,-1.702,0.0533,130.072,4
+52,The Other Side,Tattoos (Deluxe Edition),Jason Derulo,2013-09-10,226986,53,0.561,0.0525,0.561,0.836,0.0,0.136,-3.939,0.1,127.923,4
+53,Best Song Ever,Midnight Memories (Deluxe),One Direction,2013-11-25,200106,79,0.652,0.0227,0.652,0.877,0.0,0.0789,-2.986,0.0465,118.491,4
+54,Sonnentanz - Sun Don't Shine,Netzwerk,Klangkarussell,2014-01-01,238120,69,0.579,0.104,0.579,0.549,0.0202,0.0964,-8.262,0.0909,119.74,4
+55,Suit & Tie (feat. Jay-Z),The 20/20 Experience (Deluxe Version),Justin Timberlake,2013-03-15,326280,71,0.795,0.103,0.795,0.596,0.0,0.164,-3.799,0.219,101.985,4
+56,Do I Wanna Know?,AM,Arctic Monkeys,2013-09-09,272394,84,0.548,0.186,0.548,0.532,0.000263,0.217,-7.596,0.0323,85.03,4
+57,Treasure,Unorthodox Jukebox,Bruno Mars,2012-12-07,178560,78,0.874,0.0412,0.874,0.692,7.24e-05,0.324,-5.28,0.0431,116.017,4
+58,A Thousand Years,Autumn Acoustic,Various Artists,2019-11-01,285120,72,0.423,0.312,0.423,0.407,0.000961,0.11,-7.45,0.0267,139.048,3
+59,This Is What It Feels Like,Intense,Armin van Buuren,2013-05-03,204360,67,0.552,0.0391,0.552,0.831,2.93e-06,0.0632,-5.217,0.0298,129.889,5
+60,Holy Grail,Magna Carta... Holy Grail,JAY-Z,2013-07-04,338413,65,0.676,0.0594,0.676,0.534,8.59e-06,0.256,-6.901,0.0831,145.082,4
+61,Feel This Moment (feat. Christina Aguilera),Global Warming: Meltdown (Deluxe Version),Pitbull,2012,229506,74,0.673,0.039,0.673,0.758,0.0,0.341,-3.632,0.158,135.956,4
+62,#thatPOWER,#willpower (Deluxe),will.i.am,2013-01-01,279506,69,0.797,0.00112,0.797,0.608,7.66e-05,0.0748,-6.096,0.0584,127.999,4
+63,Get Up (Rattle) - Vocal Edit,Get Up (Rattle),Bingo Players,2013-01-14,166933,48,0.801,0.0205,0.801,0.985,6.86e-06,0.296,-2.69,0.0645,127.99,4
+64,Same Love - feat. Mary Lambert,The Heist,Macklemore & Ryan Lewis,2012-10-09,318525,71,0.688,0.716,0.688,0.473,4.46e-05,0.104,-9.059,0.167,84.958,4
+65,Harlem Shake,Harlem Shake,Baauer,2013-02-12,196664,60,0.452,0.0111,0.452,0.794,0.00182,0.416,-5.151,0.0483,137.825,4
+66,Of The Night,All This Bad Blood,Bastille,2013-01-01,214205,64,0.67,0.0192,0.67,0.829,0.000225,0.089,-7.2,0.0427,125.01,4
+67,22,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,232120,71,0.661,0.00215,0.661,0.729,0.0013,0.0477,-6.561,0.0376,103.987,4
+68,Chocolate,The 1975,The 1975,2013-01-01,224673,68,0.614,0.000532,0.614,0.938,0.0,0.368,-4.461,0.0611,100.058,4
+69,Another Love,Long Way Down (Deluxe),Tom Odell,2013-06-24,244360,76,0.445,0.695,0.445,0.537,1.6e-05,0.0944,-8.532,0.04,122.764,4
+70,Thinking About You (feat. Ayah Marar),18 Months,Calvin Harris,2012-10-29,247933,68,0.725,0.00262,0.725,0.874,0.000412,0.0958,-3.715,0.0396,127.985,4
+71,We Own It (Fast & Furious),B.O.A.T.S. II #METIME (Deluxe),2 Chainz,2013-01-01,227906,71,0.563,0.0545,0.563,0.902,0.0,0.0524,-4.586,0.402,171.999,4
+72,Reload - Radio Edit,Reload (Vocal Version / Radio Edit),Sebastian Ingrosso,2013-01-01,221272,67,0.485,0.0736,0.485,0.724,0.0,0.0631,-4.633,0.0521,128.045,4
+73,Mirrors,The 20/20 Experience (Deluxe Version),Justin Timberlake,2013-03-15,484146,78,0.574,0.234,0.574,0.512,0.0,0.0946,-6.664,0.0503,76.899,4
+74,When I Was Your Man,Unorthodox Jukebox,Bruno Mars,2012-12-07,213826,83,0.612,0.932,0.612,0.28,0.0,0.088,-8.648,0.0434,72.795,4
+75,Cruise,Here's To The Good Times,Florida Georgia Line,2012-01-01,208960,61,0.457,0.0191,0.457,0.948,0.0,0.0536,-3.364,0.0354,148.0,4
+76,Clarity,Clarity (Deluxe),Zedd,2012,271426,0,0.523,0.0366,0.523,0.78,0.0,0.0751,-3.464,0.0753,128.006,4
+77,Sail,Megalithic Symphony Deluxe,AWOLNATION,2011,259102,77,0.825,0.452,0.825,0.435,0.609,0.0953,-9.582,0.0568,119.038,4
+78,The Way,Yours Truly,Ariana Grande,2013-01-01,227026,68,0.645,0.294,0.645,0.878,0.0,0.076,-3.208,0.113,82.324,4
+79,Started From the Bottom,Nothing Was The Same (Deluxe),Drake,2013-01-01,174120,68,0.794,0.0331,0.794,0.523,0.0,0.156,-7.829,0.161,86.307,4
+80,Come & Get It,Stars Dance (Bonus Track Version),Selena Gomez,2013-01-01,231986,71,0.546,0.0101,0.546,0.787,0.00021,0.0809,-4.1,0.0517,79.979,4
+81,Daylight,Overexposed Track By Track,Maroon 5,2012-01-01,225066,65,0.656,0.00242,0.656,0.674,0.0,0.255,-5.473,0.0269,120.001,4
+82,Love Me,I Am Not A Human Being II (Deluxe),Lil Wayne,2013-01-01,255053,62,0.669,0.0125,0.669,0.634,0.0,0.0946,-6.476,0.0327,124.906,4
+83,My Songs Know What You Did In The Dark (Light Em Up),Save Rock And Roll,Fall Out Boy,2013-01-01,186826,71,0.558,0.0271,0.558,0.924,3.32e-06,0.537,-4.341,0.064,151.99,4
+84,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",LONG.LIVE.A$AP (Deluxe Version),A$AP Rocky,2013,233786,78,0.853,0.0239,0.853,0.693,0.0,0.11,-6.87,0.275,95.967,4
+85,Beauty And A Beat,Believe (Deluxe Edition),Justin Bieber,2012-06-15,227986,71,0.602,0.000688,0.602,0.843,5.27e-05,0.0682,-4.831,0.0593,128.003,4
+86,Sweet Nothing (feat. Florence Welch),18 Months,Calvin Harris,2012-10-29,212560,73,0.573,0.197,0.573,0.929,0.000112,0.0567,-3.942,0.109,127.934,4
+87,Home,The World From The Side Of The Moon,Phillip Phillips,2012-01-01,210173,62,0.606,0.0256,0.606,0.826,1.56e-05,0.117,-6.04,0.0307,121.04,4
+88,Power Trip (feat. Miguel),Born Sinner,J. Cole,2013-06-14,241160,73,0.667,0.322,0.667,0.61,0.000203,0.426,-7.054,0.217,99.991,4
+89,Heart Attack,Demi,Demi Lovato,2013-01-01,210840,76,0.504,0.0738,0.504,0.785,0.0,0.239,-4.802,0.104,173.968,4
+90,Try,The Truth About Love,P!nk,2012-09-18,247906,75,0.673,0.00141,0.673,0.629,0.0,0.0944,-7.072,0.0299,103.998,4
+91,Bad (feat. Rihanna) - Remix,The Gifted,Wale,2013-06-25,238826,63,0.807,0.307,0.807,0.702,0.0,0.111,-6.594,0.0748,114.038,4
+92,Demons,Night Visions,Imagine Dragons,2012-09-04,177506,81,0.505,0.19,0.505,0.71,0.00025,0.269,-3.015,0.0321,89.938,4
+93,I Cry,Wild Ones,Flo Rida,2012-06-22,223800,61,0.693,0.00616,0.693,0.822,1.79e-06,0.315,-5.441,0.0439,126.035,4
+94,Body Party,Ciara,Ciara,2013-07-05,234040,65,0.577,0.0143,0.577,0.576,0.0,0.602,-6.299,0.0563,133.973,4
+95,Still into You,Paramore,Paramore,2013-04-05,216013,77,0.602,0.0098,0.602,0.923,0.0,0.0561,-3.763,0.044,136.01,4
+96,It's a Beautiful Day,To Be Loved,Michael Bublé,2013-04-11,199266,68,0.532,0.0559,0.532,0.795,0.0,0.295,-3.979,0.0358,143.837,4
+97,All I Want,In A Perfect World,Kodaline,2013-10-08,305746,33,0.209,0.172,0.209,0.412,0.15,0.0843,-9.733,0.0443,86.26,3
+98,Why'd You Only Call Me When You're High?,AM,Arctic Monkeys,2013-09-09,161123,78,0.691,0.0483,0.691,0.631,1.13e-05,0.104,-6.478,0.0368,92.004,4
+99,Here's to Never Growing Up,Here's to Never Growing Up,Avril Lavigne,2013-04-09,214080,0,0.483,0.015,0.483,0.871,0.0,0.415,-3.084,0.101,164.986,4

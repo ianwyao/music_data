@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Somebody That I Used To Know,Somebody That I Used To Know,Gotye,2011-01-01,244884,54,0.863,0.607,0.863,0.527,0.000168,0.107,-6.896,0.0358,129.054,4
+1,Call Me Maybe,Kiss,Carly Rae Jepsen,2012-01-01,193400,78,0.783,0.0114,0.783,0.58,2.28e-06,0.108,-6.548,0.0408,120.021,4
+2,We Are Young (feat. Janelle Monáe),Some Nights,fun.,2012-02-14,250626,78,0.378,0.02,0.378,0.638,7.66e-05,0.0849,-5.576,0.075,184.086,4
+3,We Found Love,Talk That Talk,Rihanna,2011-11-19,215226,74,0.735,0.025,0.735,0.766,0.00138,0.108,-4.485,0.0383,127.985,4
+4,Set Fire to the Rain,21,Adele,2011-01-19,242973,76,0.603,0.00408,0.603,0.67,1.66e-06,0.112,-3.882,0.0249,107.995,4
+5,Bangarang (feat. Sirah),Bangarang EP,Skrillex,2011-12-27,215253,73,0.716,0.0145,0.716,0.972,3.22e-05,0.317,-2.302,0.196,110.026,4
+6,Royals,Pure Heroine,Lorde,2013-09-27,190185,77,0.674,0.121,0.674,0.428,0.0,0.132,-9.504,0.122,84.878,4
+7,Die Young,Warrior (Expanded Edition),Kesha,2012-11-30,211920,77,0.711,0.00498,0.711,0.7,0.000125,0.215,-4.805,0.046,128.001,4
+8,What Makes You Beautiful,Up All Night,One Direction,2012-05-25,199986,84,0.726,0.009,0.726,0.787,0.0,0.0596,-2.494,0.0737,124.99,4
+9,I Love It,Icona Pop,Icona Pop,2012-01-01,156773,50,0.71,0.00828,0.71,0.901,1.34e-05,0.172,-2.686,0.0296,125.953,4
+10,Chasing The Sun,The Wanted (Special Edition),The Wanted,2012-01-01,198800,66,0.636,0.242,0.636,0.732,0.0,0.498,-6.209,0.0962,128.11,4
+11,On Top Of The World,Night Visions,Imagine Dragons,2012-09-04,192280,75,0.631,0.0841,0.631,0.924,3.59e-06,0.084,-5.589,0.146,100.045,4
+12,Ho Hey,The Lumineers (Deluxe Edition),The Lumineers,2012,163133,75,0.682,0.765,0.682,0.471,0.0,0.0908,-9.182,0.0301,79.907,4
+13,Payphone,Overexposed Track By Track,Maroon 5,2012-01-01,231173,82,0.743,0.0188,0.743,0.752,0.0,0.287,-4.813,0.0414,110.015,4
+14,Diamonds,Unapologetic (Deluxe),Rihanna,2012-12-11,225146,76,0.564,0.00125,0.564,0.71,0.0,0.109,-4.92,0.0461,91.972,4
+15,Thrift Shop (feat. Wanz),The Heist [Deluxe Edition],Macklemore & Ryan Lewis,2012-10-09,235613,74,0.781,0.0619,0.781,0.526,0.0,0.0457,-6.985,0.293,94.992,4
+16,Just Give Me a Reason (feat. Nate Ruess),The Truth About Love,P!nk,2012-09-18,242733,82,0.778,0.346,0.778,0.547,0.000302,0.132,-7.273,0.0489,95.002,4
+17,Locked out of Heaven,Unorthodox Jukebox,Bruno Mars,2012-12-07,233478,82,0.726,0.049,0.726,0.698,0.0,0.309,-4.165,0.0431,143.994,4
+18,Let Her Go,All The Little Lights,Passenger,2012-11-05,252866,78,0.509,0.385,0.509,0.538,0.0,0.104,-7.335,0.0572,75.089,4
+19,Radioactive,Night Visions,Imagine Dragons,2012-09-04,186813,79,0.448,0.106,0.448,0.784,0.000108,0.668,-3.686,0.0627,136.245,4
+20,All of Me,Love In The Future (Expanded Edition),John Legend,2013-08-30,269560,86,0.422,0.922,0.422,0.264,0.0,0.132,-7.064,0.0322,119.93,4
+21,When I Was Your Man,Unorthodox Jukebox,Bruno Mars,2012-12-07,213826,83,0.612,0.932,0.612,0.28,0.0,0.088,-8.648,0.0434,72.795,4
+22,Can't Hold Us - feat. Ray Dalton,The Heist,Macklemore & Ryan Lewis,2012-10-09,258342,84,0.641,0.0291,0.641,0.922,0.0,0.0862,-4.457,0.0786,146.078,4
+23,In The Dark,The Night The Sun Came Up,DEV,2012-01-01,226226,51,0.736,0.00358,0.736,0.824,0.000921,0.329,-4.231,0.0672,124.954,4
+24,BURN IT DOWN,LIVING THINGS,Linkin Park,2012-06-20,230253,75,0.585,0.0143,0.585,0.972,0.0,0.0707,-4.45,0.0534,110.006,4
+25,A Thousand Years,The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack),Various Artists,2011-11-04,285120,69,0.421,0.309,0.421,0.407,0.000961,0.11,-7.445,0.0267,139.028,3
+26,50 Ways to Say Goodbye,California 37,Train,2012-04-17,247946,68,0.591,0.000284,0.591,0.935,0.000278,0.142,-2.664,0.0478,140.043,4
+27,So Good,Strange Clouds,B.o.B,2012-04-27,213253,66,0.66,0.0403,0.66,0.9,0.0,0.219,-5.02,0.14,85.51,4
+28,Heart Attack,Chapter V (Deluxe),Trey Songz,2012-08-17,233146,57,0.608,0.0593,0.608,0.863,0.0,0.228,-4.87,0.131,150.029,4
+29,"Work Hard, Play Hard",O.N.I.F.C. (Deluxe),Wiz Khalifa,2012-12-04,219026,64,0.787,0.0409,0.787,0.666,1.91e-05,0.296,-4.475,0.0485,140.008,4
+30,Climax,Looking 4 Myself (Expanded Edition),Usher,2012-06-12,232906,63,0.647,0.547,0.647,0.478,2.69e-05,0.156,-8.837,0.0782,135.877,4
+31,Paradise,Mylo Xyloto,Coldplay,2011-10-24,278719,82,0.449,0.0522,0.449,0.585,8.49e-05,0.0833,-6.762,0.0268,139.627,4
+32,Rumour Has It,21,Adele,2011-01-19,223266,65,0.612,0.617,0.612,0.748,0.0,0.167,-5.014,0.0445,120.052,4
+33,Not Over You,Sweeter,Gavin DeGraw,2011-09-16,218520,72,0.63,0.255,0.63,0.894,0.0,0.181,-4.592,0.0544,142.051,4
+34,Brokenhearted,Hello,Karmin,2012-05-07,227146,65,0.765,0.00765,0.765,0.765,3.82e-06,0.0527,-2.732,0.0585,120.001,4
+35,Want U Back,Sticks & Stones,Cher Lloyd,2011-11-07,214013,68,0.696,0.0662,0.696,0.893,0.0,0.473,-2.963,0.076,97.954,4
+36,Ass Back Home (feat. Neon Hitch),The Papercut Chronicles II,Gym Class Heroes,2011-11-11,222213,63,0.716,0.134,0.716,0.838,0.0,0.148,-4.289,0.0513,130.034,4
+37,Without You (feat. Usher),Nothing but the Beat (Ultimate Edition),David Guetta,2012-12-07,208133,70,0.608,0.227,0.608,0.614,4.06e-06,0.157,-3.727,0.0285,127.884,4
+38,Rack City,Careless World: Rise Of The Last King,Tyga,2012-01-01,203200,64,0.929,0.0373,0.929,0.339,1.96e-05,0.187,-10.881,0.371,98.986,4
+39,Feel So Close - Radio Edit,18 Months,Calvin Harris,2012-10-29,206413,79,0.707,0.000972,0.707,0.924,0.00703,0.204,-2.842,0.031,127.937,4
+40,The One That Got Away,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,2012-03-12,227333,76,0.687,0.000802,0.687,0.792,0.0,0.2,-4.023,0.0353,133.962,4
+41,Give Your Heart a Break,Unbroken,Demi Lovato,2011-01-01,205346,72,0.651,0.23,0.651,0.695,0.0,0.144,-3.218,0.0487,123.008,4
+42,As Long As You Love Me,Believe (Deluxe Edition),Justin Bieber,2012-06-15,229466,69,0.571,0.0811,0.571,0.873,0.0,0.361,-3.382,0.1,139.691,4
+43,"Young, Wild & Free (feat. Bruno Mars)","Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,2011-10-11,207333,79,0.715,0.0525,0.715,0.655,0.0,0.115,-6.425,0.137,95.078,4
+44,Mercy,Mercy,Kanye West,2012-01-01,329320,73,0.563,0.0685,0.563,0.496,5.8e-05,0.173,-9.381,0.406,139.993,4
+45,It Will Rain,It Will Rain,Bruno Mars,2011-09-28,257720,70,0.576,0.337,0.576,0.835,0.0,0.082,-6.826,0.0486,150.017,4
+46,Everybody Talks,Picture Show,Neon Trees,2012-01-01,177280,80,0.471,0.00301,0.471,0.924,0.0,0.313,-3.906,0.0586,154.961,4
+47,Stay,Unapologetic (Deluxe),Rihanna,2012-12-11,240706,76,0.621,0.945,0.621,0.31,6.12e-05,0.117,-10.164,0.0283,111.893,4
+48,Latch,Settle (Special Edition),Disclosure,2014-01-01,255631,68,0.503,0.0159,0.503,0.727,9.45e-05,0.0895,-5.456,0.167,121.985,4
+49,The Motto,Take Care (Deluxe),Drake,2011-11-15,181573,74,0.766,0.000107,0.766,0.442,6.12e-05,0.111,-8.558,0.356,201.8,4
+50,Sweater Weather,I Love You.,The Neighbourhood,2013-04-19,240400,85,0.612,0.0495,0.612,0.807,0.0177,0.101,-2.81,0.0336,124.053,4
+51,Good Feeling,Wild Ones,Flo Rida,2012-06-22,248133,76,0.706,0.0588,0.706,0.89,0.00286,0.306,-4.444,0.0688,128.011,4
+52,Sexy And I Know It,Sorry For Party Rocking,LMFAO,2011-01-01,199480,69,0.707,0.1,0.707,0.861,0.0,0.191,-4.225,0.316,130.021,4
+53,Glad You Came,Battleground (Deluxe Edition),The Wanted,2011-01-01,197935,74,0.722,0.0319,0.722,0.851,0.0,0.108,-3.873,0.0639,126.885,4
+54,Lights - Single Version,Bright Lights (Lights Re-pack / Bonus Version),Ellie Goulding,2010-01-01,210853,66,0.682,0.0297,0.682,0.795,0.0391,0.131,-6.17,0.0367,120.008,4
+55,Wide Awake,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,2012-03-12,220946,70,0.514,0.0749,0.514,0.683,2.64e-06,0.392,-5.099,0.0367,159.814,4
+56,Live While We're Young,Take Me Home: Yearbook Edition,One Direction,2012-11-09,200186,66,0.658,0.0629,0.658,0.837,0.0,0.0969,-2.063,0.0543,126.015,4
+57,Born To Die,Born To Die (Deluxe Version),Lana Del Rey,2012-01-01,286253,55,0.18,0.209,0.18,0.636,0.000133,0.217,-6.591,0.0439,75.223,3
+58,She Wolf (Falling to Pieces) [feat. Sia],Nothing but the Beat (Ultimate Edition),David Guetta,2012-12-07,222500,69,0.492,0.0841,0.492,0.857,7.82e-06,0.344,-2.634,0.0655,129.973,4
+59,Boyfriend,Believe (Deluxe Edition),Justin Bieber,2012-06-15,171333,66,0.717,0.0358,0.717,0.55,0.00198,0.126,-6.019,0.0519,96.979,4
+60,Blow Me (One Last Kiss),The Truth About Love,P!nk,2012-09-18,255586,68,0.597,0.000145,0.597,0.919,0.0,0.282,-2.954,0.044,113.987,4
+61,Scream,Looking 4 Myself (Expanded Edition),Usher,2012-06-12,234693,67,0.616,0.00117,0.616,0.862,0.0,0.179,-5.18,0.0973,127.992,4
+62,Video Games - Remastered,Born To Die (Deluxe Version),Lana Del Rey,2012-01-01,281946,56,0.39,0.806,0.39,0.255,1.14e-06,0.0887,-9.676,0.0299,122.056,4
+63,International Love,Planet Pit (Deluxe Version),Pitbull,2011-06-17,227280,73,0.669,0.0124,0.669,0.855,0.0,0.335,-3.035,0.0499,120.045,4
+64,Turn Up the Music,Fortune (Expanded Edition),Chris Brown,2012-07-03,227973,66,0.594,0.000238,0.594,0.841,2.22e-06,0.156,-5.792,0.102,129.925,4
+65,Good Time,The Midsummer Station,Owl City,2012-01-01,205933,76,0.56,0.0239,0.56,0.872,6.98e-06,0.371,-4.269,0.14,126.05,4
+66,Take Care,Take Care (Deluxe),Drake,2011-11-15,277386,73,0.629,0.0267,0.629,0.515,1.22e-05,0.0888,-10.358,0.265,121.845,4
+67,Let's Go (feat. Ne-Yo),18 Months,Calvin Harris,2012-10-29,232800,68,0.71,0.00777,0.71,0.882,0.00771,0.294,-2.932,0.0595,128.016,4
+68,Little Things,Take Me Home: Yearbook Edition,One Direction,2012-11-09,219640,69,0.707,0.788,0.707,0.222,0.0,0.205,-11.716,0.0329,110.095,4
+69,Pound The Alarm,Pink Friday ... Roman Reloaded (Deluxe),Nicki Minaj,2012-01-01,205640,65,0.728,0.0403,0.728,0.858,4.09e-06,0.0241,-3.686,0.0609,125.055,4
+70,"Read All About It, Pt. III",Our Version Of Events (Special Edition),Emeli Sandé,2012-01-01,283706,69,0.63,0.822,0.63,0.44,3.87e-06,0.0926,-7.186,0.0249,98.082,4
+71,Levels - Radio Edit,Levels,Avicii,2011-01-01,199906,76,0.584,0.0462,0.584,0.889,0.828,0.309,-5.941,0.0343,126.04,4
+72,We'll Be Coming Back (feat. Example),18 Months,Calvin Harris,2012-10-29,234360,66,0.596,0.00131,0.596,0.952,0.0,0.598,-4.364,0.0873,127.945,4
+73,Part Of Me,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,2012-03-12,216160,74,0.678,0.000417,0.678,0.918,0.0,0.0744,-4.63,0.0355,130.028,4
+74,How We Do (Party),ORA Deluxe,Rita Ora,2012-08-27,247026,54,0.738,0.0034,0.738,0.922,0.0,0.0986,-3.94,0.0833,116.024,4
+75,I Won't Give Up,Love Is a Four Letter Word (Deluxe Edition),Jason Mraz,2012-04-13,240165,73,0.585,0.694,0.585,0.303,0.0,0.115,-10.058,0.0398,136.703,3
+76,212,Broke with Expensive Taste,Azealia Banks,2014-11-07,204956,68,0.847,0.0145,0.847,0.769,0.00012,0.0767,-5.761,0.258,126.017,4
+77,She Doesn't Mind,Tomahawk Technique,Sean Paul,2012-01-24,227786,69,0.718,0.000624,0.718,0.776,5.3e-06,0.207,-5.208,0.0693,120.015,4
+78,Wings,DNA: The Deluxe Edition,Little Mix,2012,219733,66,0.738,0.000673,0.738,0.875,0.000556,0.285,-3.141,0.127,114.962,4
+79,This Is Love,#willpower (Deluxe),will.i.am,2013-01-01,279026,63,0.535,0.00473,0.535,0.796,0.0,0.145,-3.446,0.0445,128.954,4
+80,Don't Wake Me Up,Fortune (Expanded Edition),Chris Brown,2012-07-03,222306,65,0.602,0.0548,0.602,0.691,0.0,0.144,-5.197,0.051,127.967,4
+81,Stronger (What Doesn't Kill You),Stronger (Deluxe Version),Kelly Clarkson,2011-10-24,221946,76,0.562,0.046,0.562,0.939,0.0,0.112,-4.282,0.0475,116.044,4
+82,Turn Me On (feat. Nicki Minaj),Nothing but the Beat (Ultimate Edition),David Guetta,2012-12-07,199680,66,0.704,0.0488,0.704,0.793,0.0,0.575,-2.266,0.0591,127.96,4
+83,Where Have You Been,Talk That Talk,Rihanna,2011-11-19,242680,68,0.719,0.00201,0.719,0.847,0.0204,0.223,-6.34,0.0916,127.963,4
+84,Ni**as In Paris,Watch The Throne (Deluxe),JAY-Z,2011-08-08,219333,80,0.789,0.127,0.789,0.858,0.0,0.349,-5.542,0.311,140.022,4
+85,R.I.P. (feat. Tinie Tempah),ORA Deluxe,Rita Ora,2012-08-27,228026,50,0.603,0.027,0.603,0.831,0.0,0.652,-3.443,0.0479,72.022,4
+86,We Are Never Ever Getting Back Together,Red (Big Machine Radio Release Special),Taylor Swift,2012-10-22,193146,76,0.628,0.00957,0.628,0.676,2.65e-05,0.121,-5.911,0.0916,85.984,4
+87,Hot Right Now (feat. RITA ORA) - Radio Edit,Nextlevelism,DJ Fresh,2012-09-28,182333,58,0.524,0.00656,0.524,0.972,0.00058,0.224,-1.569,0.0431,175.017,4
+88,Princess of China,Mylo Xyloto,Coldplay,2011-10-24,239215,67,0.425,0.00385,0.425,0.69,0.0154,0.287,-6.221,0.0351,84.99,4
+89,Drive By,California 37,Train,2012-04-17,195973,77,0.765,0.00107,0.765,0.837,1.06e-05,0.0801,-3.113,0.032,122.028,4
+90,Candy,Take The Crown (Deluxe Edition),Robbie Williams,2012-11-05,201053,63,0.715,0.0368,0.715,0.791,0.0,0.0694,-6.63,0.0414,116.043,4
+91,Skyfall,Skyfall,Adele,2012-10-04,286480,74,0.346,0.417,0.346,0.552,0.0,0.114,-6.864,0.0282,75.881,4
+92,Spectrum (Say My Name) - Calvin Harris Remix,Ceremonials,Florence + The Machine,2011,218190,67,0.578,0.00225,0.578,0.946,0.00412,0.0966,-3.85,0.0482,126.092,4
+93,Too Close,The Lateness Of The Hour,Alex Clare,2011-01-01,256613,63,0.588,0.00948,0.588,0.694,0.0,0.113,-4.278,0.0387,126.027,4
+94,Mama Do The Hump,Stereo Typical,Rizzle Kicks,2011-01-01,216013,58,0.719,0.00722,0.719,0.889,0.0,0.0731,-4.088,0.127,97.987,4
+95,Feel the Love (feat. John Newman),Home (Deluxe Edition),Rudimental,2013-02-22,245186,65,0.389,0.0026,0.389,0.706,0.000182,0.686,-6.849,0.0593,179.911,4
+96,Whistle,Wild Ones,Flo Rida,2012-06-22,224653,78,0.747,0.0208,0.747,0.937,0.0,0.29,-5.746,0.0453,103.976,4
+97,Beneath Your Beautiful (feat. Emeli Sandé),Electronic Earth (Expanded Edition),Labrinth,2012-04-02,271813,70,0.558,0.228,0.558,0.522,0.0,0.104,-5.857,0.036,83.977,4
+98,Domino,Who You Are (Platinum Edition),Jessie J,2011-01-01,231840,71,0.758,0.0117,0.758,0.557,0.0,0.0418,-4.568,0.034,126.986,4
+99,Starships,Pink Friday: Roman Reloaded The Re-Up (Explicit Version),Nicki Minaj,2012-01-01,210626,76,0.747,0.135,0.747,0.716,0.0,0.251,-2.457,0.075,125.008,4

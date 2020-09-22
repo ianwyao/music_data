@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Uptown Funk (feat. Bruno Mars),Uptown Special,Mark Ronson,2015-01-12,269666,83,0.856,0.00801,0.856,0.609,8.15e-05,0.0344,-7.223,0.0824,114.988,4
+1,Thinking out Loud,x (Deluxe Edition),Ed Sheeran,2014-06-21,281560,84,0.781,0.474,0.781,0.445,0.0,0.184,-6.061,0.0295,78.998,4
+2,See You Again (feat. Charlie Puth),See You Again (feat. Charlie Puth),Wiz Khalifa,2015,229525,83,0.689,0.369,0.689,0.481,1.03e-06,0.0649,-7.503,0.0815,80.025,4
+3,What Do You Mean?,Purpose (Deluxe),Justin Bieber,2015-11-13,205680,79,0.845,0.59,0.845,0.567,0.00142,0.0811,-8.118,0.0956,125.02,4
+4,Lean On (feat. MØ & DJ Snake),Peace Is The Mission : Extended,Major Lazer,2015-11-27,176561,77,0.723,0.00346,0.723,0.809,0.00123,0.565,-3.081,0.0625,98.007,4
+5,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack","Earned It (Fifty Shades Of Grey) [From The ""Fifty Shades Of Grey"" Soundtrack]",The Weeknd,2014-12-23,252226,79,0.659,0.385,0.659,0.381,0.0,0.0972,-5.922,0.0304,119.844,3
+6,"Love Me Like You Do - From ""Fifty Shades Of Grey""",Delirium (Deluxe),Ellie Goulding,2015-11-06,252534,80,0.262,0.247,0.262,0.606,0.0,0.125,-6.646,0.0484,189.857,4
+7,Trap Queen,Fetty Wap (Deluxe),Fetty Wap,2015-09-25,222093,69,0.746,0.0244,0.746,0.873,0.0,0.354,-3.803,0.128,148.075,4
+8,That's How You Know (feat. Kid Ink & Bebe Rexha),That's How You Know (feat. Kid Ink & Bebe Rexha),Nico & Vinz,2015-07-17,186443,61,0.769,0.44,0.769,0.437,0.0,0.116,-6.406,0.0363,103.921,4
+9,Try Me (feat. Jennifer Lopez and Matoma),Everything Is 4,Jason Derulo,2015-05-29,200240,62,0.579,0.0157,0.579,0.68,0.0,0.0699,-5.634,0.076,100.033,4
+10,Blank Space,1989 (Deluxe),Taylor Swift,2014-01-01,231826,79,0.76,0.103,0.76,0.703,0.0,0.0913,-5.412,0.054,95.997,4
+11,All My Friends (feat. Tinashe & Chance the Rapper),All My Friends (feat. Tinashe & Chance the Rapper),Snakehips,2015-10-21,229746,75,0.689,0.119,0.689,0.521,8.41e-05,0.108,-5.845,0.132,95.055,4
+12,The Hills,Beauty Behind The Madness,The Weeknd,2015-08-28,242253,85,0.585,0.0671,0.585,0.564,0.0,0.135,-7.063,0.0515,113.003,4
+13,Good For You,Good For You,Selena Gomez,2015-08-07,221560,0,0.6,0.154,0.6,0.676,0.0,0.0741,-6.447,0.0652,88.928,4
+14,Sugar,V,Maroon 5,2014-09-02,235493,81,0.748,0.0591,0.748,0.788,0.0,0.0863,-7.055,0.0334,120.076,4
+15,Here,Four Pink Walls,Alessia Cara,2015-08-28,199453,0,0.379,0.0804,0.379,0.799,0.0,0.0793,-4.031,0.163,120.892,4
+16,On My Mind,Delirium (Deluxe),Ellie Goulding,2015-11-06,213445,0,0.699,0.264,0.699,0.688,4.11e-06,0.0863,-6.607,0.0522,154.943,4
+17,Geronimo,Bombs Away,Sheppard,2015-01-12,218227,67,0.705,0.456,0.705,0.78,0.00152,0.115,-6.267,0.0805,142.028,4
+18,Same Old Love,Revival (Deluxe),Selena Gomez,2015-10-09,229080,68,0.672,0.0223,0.672,0.593,0.0,0.214,-4.01,0.0304,98.02,4
+19,Ghost Town,Ghost Town,Adam Lambert,2015-04-21,208330,51,0.703,0.186,0.703,0.736,1.92e-05,0.174,-5.709,0.046,119.955,4
+20,Chill Bill (feat. J. Davi$ & Spooks),Chill Bill (feat. J. Davi$ & Spooks),Rob $tone,2016-06-17,177184,78,0.886,0.0312,0.886,0.427,0.00099,0.0906,-10.028,0.145,108.034,4
+21,Sorry,Purpose (Deluxe),Justin Bieber,2015-11-13,200786,81,0.654,0.0797,0.654,0.76,0.0,0.299,-3.669,0.045,99.945,4
+22,Don't Let Me Down (feat. Daya),Don't Let Me Down (feat. Daya),The Chainsmokers,2016-02-05,208373,81,0.532,0.157,0.532,0.869,0.00508,0.136,-5.094,0.172,159.803,4
+23,Never Forget You,So Good,Zara Larsson,2017-03-17,213427,76,0.583,0.00312,0.583,0.732,9.86e-06,0.269,-5.728,0.0457,145.992,4
+24,How Deep Is Your Love,How Deep Is Your Love,Calvin Harris,2015-07-17,212640,78,0.738,0.0389,0.738,0.868,0.00171,0.388,-4.373,0.0731,122.003,4
+25,Sugar (feat. Francesco Yates),Sugar,Robin Schulz,2015-09-25,219043,79,0.636,0.0185,0.636,0.815,0.0,0.163,-5.098,0.0581,123.063,4
+26,Hotline Bling,Views,Drake,2016-05-06,267066,78,0.891,0.00258,0.891,0.628,0.00019,0.0504,-7.863,0.0551,134.966,4
+27,Can't Feel My Face,Beauty Behind The Madness,The Weeknd,2015-08-28,213520,81,0.705,0.113,0.705,0.769,0.0,0.105,-5.526,0.0425,107.949,4
+28,Shut Up and Dance,TALKING IS HARD,WALK THE MOON,2014-12-02,199080,81,0.578,0.00701,0.578,0.866,0.0,0.257,-3.804,0.0619,128.038,4
+29,Hello,25,Adele,2015-11-20,295502,74,0.47,0.329,0.47,0.431,0.0,0.0854,-6.129,0.0342,157.98,4
+30,Don't,T R A P S O U L,Bryson Tiller,2015-10-02,198293,80,0.765,0.222,0.765,0.356,0.0,0.0963,-5.556,0.196,97.001,4
+31,Like I'm Gonna Lose You (feat. John Legend),Title (Deluxe),Meghan Trainor,2015-01-09,225053,80,0.63,0.4,0.63,0.53,0.0,0.177,-7.259,0.0434,108.038,3
+32,Let It Go,Chaos And The Calm,James Bay,2015-03-20,260533,75,0.536,0.82,0.536,0.311,1.65e-05,0.107,-10.396,0.0288,147.486,4
+33,679 (feat. Remy Boyz),679 (feat. Remy Boyz),Fetty Wap,2015-06-29,196693,77,0.618,0.00256,0.618,0.717,0.0,0.625,-5.738,0.318,190.05,4
+34,Ex's & Oh's,Love Stuff,Elle King,2015-02-13,202173,73,0.612,0.0183,0.612,0.921,0.0,0.0576,-2.879,0.0848,139.986,4
+35,Antidote,Rodeo (Expanded Edition),Travis Scott,2015-09-04,262693,79,0.713,0.00767,0.713,0.526,0.000148,0.124,-5.046,0.032,131.05,4
+36,Wildest Dreams,1989,Taylor Swift,2014-01-01,220440,76,0.553,0.0709,0.553,0.664,0.0056,0.106,-7.417,0.0741,140.06,4
+37,Cheerleader - Felix Jaehn Remix Radio Edit,Me 4 U,OMI,2015-10-16,180565,78,0.782,0.166,0.782,0.685,1.18e-05,0.16,-6.237,0.0309,118.016,4
+38,Take Me To Church,Hozier,Hozier,2014-07-20,241688,82,0.566,0.634,0.566,0.664,0.0,0.116,-5.303,0.0464,128.945,4
+39,Marvin Gaye (feat. Meghan Trainor),Nine Track Mind,Charlie Puth,2016-01-29,190453,65,0.795,0.417,0.795,0.616,0.0,0.349,-5.281,0.06,110.015,4
+40,Hold Back The River,Chaos And The Calm,James Bay,2015-03-20,238746,69,0.715,0.0526,0.715,0.715,0.0,0.0936,-7.364,0.0902,134.922,4
+41,Hold My Hand,Hold My Hand,Jess Glynne,2015-02-24,227343,65,0.642,0.00159,0.642,0.823,0.0,0.0776,-5.717,0.0289,122.977,4
+42,Where Are Ü Now (with Justin Bieber),Skrillex and Diplo present Jack Ü,Jack Ü,2015-02-24,250285,76,0.432,0.041,0.432,0.781,4.21e-06,0.0789,-4.038,0.0567,139.432,4
+43,Want to Want Me,Everything Is 4,Jason Derulo,2015-05-29,207719,79,0.775,0.00906,0.775,0.68,0.0,0.109,-5.508,0.0629,114.025,4
+44,Are You With Me - Radio Edit,Are You With Me,Lost Frequencies,2014-08-25,138842,56,0.776,0.466,0.776,0.574,7.83e-05,0.131,-9.882,0.0317,121.03,4
+45,FourFiveSeconds,FourFiveSeconds,Rihanna,2015-01-24,188238,80,0.582,0.875,0.582,0.272,0.0,0.13,-5.662,0.0501,205.846,4
+46,Firestone,Cloud Nine,Kygo,2016-05-13,271640,78,0.704,0.393,0.704,0.634,3.17e-05,0.0952,-7.374,0.0428,113.927,4
+47,Black Magic,Get Weird (Deluxe),Little Mix,2015-11-06,211773,76,0.777,0.0348,0.777,0.895,0.0,0.317,-4.464,0.0618,111.987,4
+48,Wish You Were Mine - Radio Edit,Wish You Were Mine,Philip George,2014-12-28,177560,66,0.654,0.0126,0.654,0.832,0.0901,0.102,-4.164,0.0293,123.002,4
+49,The Nights,The Days / Nights,Avicii,2014-01-01,176658,82,0.527,0.0166,0.527,0.835,0.0,0.249,-5.298,0.0433,125.983,4
+50,Runaway (U & I),Pharmacy,Galantis,2015-06-05,227073,76,0.506,0.00711,0.506,0.805,0.00193,0.0856,-4.119,0.0469,126.008,4
+51,Ayo,Fan of A Fan The Album (Expanded Edition),Chris Brown,2015-02-24,225226,74,0.823,0.0399,0.823,0.563,0.0,0.0851,-5.095,0.0443,98.031,4
+52,I Really Like You,Emotion (Deluxe),Carly Rae Jepsen,2015-09-25,204773,57,0.622,0.00543,0.622,0.808,5.63e-05,0.215,-4.701,0.0418,122.121,4
+53,Drag Me Down,Made In The A.M. (Deluxe Edition),One Direction,2015-11-13,192120,82,0.73,0.109,0.73,0.703,0.0,0.0657,-5.672,0.0369,138.113,4
+54,Heroes (we could be),Forever,Alesso,2015-05-26,210013,73,0.503,0.0305,0.503,0.748,0.0,0.343,-4.124,0.0619,125.896,4
+55,Locked Away (feat. Adam Levine),What Dreams Are Made Of,R. City,2015-10-09,227480,74,0.509,0.304,0.509,0.671,0.0,0.0452,-5.709,0.0678,118.413,5
+56,Lips Are Movin,Title (Deluxe),Meghan Trainor,2015-01-09,182666,70,0.775,0.0506,0.775,0.825,1.03e-06,0.111,-5.402,0.0464,139.091,4
+57,Easy Love,Brighter Days,Sigala,2018-09-28,229813,70,0.68,0.175,0.68,0.942,0.0013,0.117,-4.21,0.0628,123.99,4
+58,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",Listen,David Guetta,2014-11-21,192560,73,0.596,0.24,0.596,0.73,0.0,0.325,-4.091,0.151,85.979,4
+59,"Writing's On The Wall - From ""Spectre"" Soundtrack",Writing's On The Wall,Sam Smith,2015-09-25,278987,68,0.261,0.769,0.261,0.302,2.57e-06,0.0863,-8.19,0.0339,81.418,3
+60,Waiting For Love,Stories,Avicii,2015-10-02,230613,80,0.579,0.31,0.579,0.736,0.0,0.198,-3.863,0.0527,127.999,4
+61,Classic Man (feat. Roman GianArthur),Classic Man (feat. Roman GianArthur),Jidenna,2015-02-03,226000,62,0.79,0.185,0.79,0.585,0.0,0.292,-6.058,0.0348,94.072,4
+62,Do It Again,Do It Again,Pia Mia,2015-05-04,207746,77,0.712,0.0266,0.712,0.564,0.0,0.0874,-6.527,0.047,95.95,4
+63,Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson),I,Felix Jaehn,2018-02-16,186146,75,0.778,0.672,0.778,0.566,0.000197,0.0698,-6.959,0.0311,117.971,4
+64,Like I Can,In The Lonely Hour,Sam Smith,2014-05-26,167065,70,0.656,0.343,0.656,0.627,2.17e-05,0.124,-6.627,0.0379,99.933,4
+65,Fight Song,Wildfire,Rachel Platten,2016-01-01,204013,80,0.564,0.0549,0.564,0.714,0.0,0.155,-4.987,0.129,175.924,4
+66,"I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",My House,Flo Rida,2015-04-07,224258,70,0.854,0.0242,0.854,0.766,0.0,0.0793,-4.697,0.141,118.004,4
+67,Intoxicated - New Radio Mix,Intoxicated,Martin Solveig,2015-03-06,159693,51,0.8,0.00563,0.8,0.677,0.00409,0.0838,-4.023,0.0393,125.004,4
+68,Stole the Show,Cloud Nine,Kygo,2016-05-13,223186,76,0.64,0.271,0.64,0.635,0.0,0.319,-7.565,0.226,100.034,4
+69,Five More Hours - Deorro x Chris Brown,Five More Hours (Deorro x Chris Brown),Deorro,2015-03-03,211975,68,0.699,0.0288,0.699,0.883,0.0,0.817,-3.226,0.219,127.961,4
+70,Real Love,Real Love,Clean Bandit,2014-10-06,219691,58,0.63,0.0834,0.63,0.848,4.34e-06,0.205,-4.592,0.0428,124.987,4
+71,Somebody,Somebody,Natalie La Rose,2014-01-06,189906,66,0.83,0.000792,0.83,0.52,1.25e-05,0.0656,-8.714,0.0376,104.99,4
+72,Outside (feat. Ellie Goulding),Motion,Calvin Harris,2014-10-31,227266,82,0.646,0.213,0.646,0.823,0.0,0.322,-4.123,0.0394,128.035,4
+73,Bad Blood,Bad Blood,Taylor Swift,2015-05-17,200106,67,0.654,0.0294,0.654,0.655,0.0,0.139,-7.388,0.106,170.16,4
+74,Perfect,Made In The A.M. (Deluxe Edition),One Direction,2015-11-13,230333,79,0.647,0.0598,0.647,0.823,0.0,0.119,-5.231,0.0762,99.933,4
+75,Rather Be (feat. Jess Glynne),Rather Be (feat. Jess Glynne),Clean Bandit,2014-01-17,227833,74,0.799,0.162,0.799,0.586,2.03e-06,0.193,-6.735,0.0377,120.97,4
+76,Lay It All on Me (feat. Ed Sheeran),We the Generation,Rudimental,2015-10-02,242440,61,0.669,0.141,0.669,0.747,0.0,0.185,-7.108,0.0428,122.531,4
+77,Lay Me Down,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,2015-11-06,253208,54,0.427,0.759,0.427,0.304,1.14e-05,0.111,-9.661,0.0436,116.977,4
+78,One Last Time,My Everything (Deluxe),Ariana Grande,2014-08-25,197266,80,0.628,0.093,0.628,0.593,1.65e-06,0.096,-5.036,0.0323,125.026,4
+79,Worth It (feat. Kid Ink),Reflection (Deluxe),Fifth Harmony,2015-01-30,224573,76,0.884,0.063,0.884,0.765,7.04e-06,0.118,-3.865,0.0882,99.987,4
+80,Post to Be (feat. Chris Brown & Jhene Aiko),Sex Playlist,Omarion,2014-12-02,226580,73,0.733,0.0697,0.733,0.676,0.0,0.208,-5.655,0.0432,97.448,4
+81,Style,1989 (Deluxe),Taylor Swift,2014-01-01,231000,72,0.588,0.00245,0.588,0.791,0.00258,0.118,-5.595,0.0402,94.933,4
+82,Stitches,Handwritten,Shawn Mendes,2015-04-14,206880,77,0.746,0.0152,0.746,0.754,0.0,0.0486,-6.684,0.0676,149.882,4
+83,Talking Body,Queen Of The Clouds,Tove Lo,2014-09-24,238426,69,0.736,0.0966,0.736,0.761,0.0,0.0823,-5.449,0.0338,119.999,4
+84,Time of Our Lives,Globalization,Pitbull,2014-11-21,229360,79,0.72,0.0921,0.72,0.802,0.0,0.694,-5.797,0.0582,124.043,4
+85,Centuries,American Beauty/American Psycho,Fall Out Boy,2015-01-20,228360,82,0.393,0.00359,0.393,0.858,0.0,0.102,-2.868,0.0729,176.042,4
+86,My Way (feat. Monty),Fetty Wap (Deluxe),Fetty Wap,2015-09-25,213053,58,0.748,0.00419,0.748,0.741,0.0,0.147,-3.103,0.0531,128.077,4
+87,I Don't Fuck With You,Dark Sky Paradise,Big Sean,2015-02-24,284386,77,0.824,0.0362,0.824,0.733,0.0,0.325,-5.474,0.0613,97.972,4
+88,Bitch Better Have My Money,Bitch Better Have My Money,Rihanna,2015-03-26,219305,77,0.781,0.0509,0.781,0.728,1.94e-06,0.257,-4.981,0.0621,102.99,4
+89,"Flex (Ooh, Ooh, Ooh)","Flex (Ooh, Ooh, Ooh)",Rich Homie Quan,2015-02-10,176674,64,0.676,0.0384,0.676,0.615,0.0,0.341,-7.534,0.0496,163.993,4
+90,GDFR (feat. Sage the Gemini & Lookas),My House,Flo Rida,2015-04-07,190185,51,0.657,0.000704,0.657,0.827,0.00534,0.065,-4.036,0.0734,145.889,4
+91,Renegades,VHS,X Ambassadors,2015-06-30,195200,76,0.526,0.0144,0.526,0.862,0.0597,0.229,-6.003,0.0905,90.052,4
+92,I Don't Mind (feat. Juicy J),I Don't Mind (feat. Juicy J),Usher,2014-11-21,251989,71,0.87,0.205,0.87,0.464,0.0,0.0902,-8.337,0.178,112.974,4
+93,7/11,BEYONCÉ [Platinum Edition],Beyoncé,2014-11-24,213506,73,0.747,0.0128,0.747,0.705,0.0,0.126,-5.137,0.126,136.024,4
+94,The Heart Wants What It Wants,The Heart Wants What It Wants,Selena Gomez,2014-01-01,227373,71,0.616,0.053,0.616,0.789,0.0,0.142,-4.874,0.0377,83.066,4
+95,All Eyes on You (feat. Chris Brown & Nicki Minaj),Dreams Worth More Than Money,Meek Mill,2015-06-29,223973,70,0.589,0.0242,0.589,0.658,0.0,0.118,-5.288,0.203,77.521,4
+96,No Type,SremmLife,Rae Sremmurd,2015-01-06,200080,75,0.891,0.0158,0.891,0.486,3.78e-06,0.0925,-7.803,0.159,125.01,4
+97,Dear Future Husband,Title (Deluxe),Meghan Trainor,2015-01-09,184226,74,0.655,0.375,0.655,0.782,0.0,0.317,-4.789,0.185,79.427,4
+98,El Perdón - Forgiveness,Fénix,Nicky Jam,2017-01-20,206666,52,0.736,0.256,0.736,0.719,0.0,0.0909,-3.839,0.0357,90.013,4
+99,Omen - Radio Edit,Omen (Radio Edit),Disclosure,2015-07-27,196817,67,0.671,0.115,0.671,0.786,0.0,0.363,-4.857,0.14,106.057,4
